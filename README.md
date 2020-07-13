@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table><tr><td valign="top">
-
 ### Recent Projects
 <!-- recent_projects starts -->
 * [CS-Data-Science-Build-Week-1](https://github.com/ThisIsJorgeLima/CS-Data-Science-Build-Week-1)
