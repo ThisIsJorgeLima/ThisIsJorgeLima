@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Read [my blog](https://medium.com/@ThisIsJorgeLima or [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima).
+
+
 <!--
 **ThisIsJorgeLima/ThisIsJorgeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
