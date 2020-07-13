@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Read [my blog](https://medium.com/@ThisIsJorgeLima) or [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima).
+Read [my blog](https://medium.com/@ThisIsJorgeLima) | [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima).
 
 <table><tr><td valign="top">
 
@@ -27,6 +27,7 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 
 ### Social
 <!-- Social starts -->
+* [Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
 * [Linkedin](https://linkedin.com/in/jorgelima)
 * [Facebook](https://www.facebook.com/ThisIsJorgeLima/)
 * [Twitter](https://twitter.com/ThisIsJorgeLima)
