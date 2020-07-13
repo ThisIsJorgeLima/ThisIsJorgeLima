@@ -32,7 +32,7 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 * [Facebook](https://www.facebook.com/ThisIsJorgeLima/)
 * [Twitter](https://twitter.com/ThisIsJorgeLima)
 <!-- Social ends -->
-* [More on](https://linktr.ee/thisisjorgelima)
+* More on [Social](https://linktr.ee/thisisjorgelima)
 </td><td valign="top">
 
 
