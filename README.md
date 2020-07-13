@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 * [How to predict movies with K-Nearest-Neighbors (KNN)](https://medium.com/@ThisIsJorgeLima/how-to-predict-movies-with-k-nearest-neighbors-knn-714aaaf12791) - 2020-05-29
 * [And the award goes to...](https://medium.com/@ThisIsJorgeLima/and-the-award-goes-to-f1896ba2efbe) - 2020-01-10
 * [The correlation between user rating score and content for the audience by age group.](https://medium.com/@ThisIsJorgeLima/the-correlation-between-user-rating-score-and-content-for-the-audience-by-age-group-4539a9f230a7) - 2019-11-21
+
+More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -43,10 +45,11 @@ Here are some ideas to get you started:
 ### Social
 <!-- Social starts -->
 * [Linkedin](https://linkedin.com/in/jorgelima)
+* [Facebook](https://www.facebook.com/ThisIsJorgeLima/)
+* [Twitter] (https://twitter.com/ThisIsJorgeLima)
 </td><td valign="top">
 <!-- Social ends -->
 
-More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 </td></tr></table>
 
 
