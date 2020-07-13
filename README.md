@@ -2,7 +2,7 @@
 
 Read [my blog](https://medium.com/@ThisIsJorgeLima) or [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima).
 
-
+<table><tr><td valign="top">
 <!--
 **ThisIsJorgeLima/ThisIsJorgeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <table><tr><td valign="top">
 
 ### Recent Projects
-<!-- recent_releases starts -->
+<!-- recent_projects starts -->
 * [CS-Data-Science-Build-Week-1](https://github.com/ThisIsJorgeLima/CS-Data-Science-Build-Week-1)
 * [Computer-Architecture](https://github.com/ThisIsJorgeLima/Computer-Architecture) 
 * [DS-ML-Engineering](https://github.com/ThisIsJorgeLima/DS-ML-Engineering-)
@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 
 More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 <!-- blog ends -->
-
 </td><td valign="top">
 
 ### Social
