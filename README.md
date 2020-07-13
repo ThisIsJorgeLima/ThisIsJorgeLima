@@ -34,6 +34,3 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 <!-- Social ends -->
 * More on [Social](https://linktr.ee/thisisjorgelima)
 </td><td valign="top">
-
-
-
