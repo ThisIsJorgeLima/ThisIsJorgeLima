@@ -46,7 +46,7 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 <!-- Social starts -->
 * [Linkedin](https://linkedin.com/in/jorgelima)
 * [Facebook](https://www.facebook.com/ThisIsJorgeLima/)
-* [Twitter] (https://twitter.com/ThisIsJorgeLima)
+* [Twitter](https://twitter.com/ThisIsJorgeLima)
 </td><td valign="top">
 <!-- Social ends -->
 
