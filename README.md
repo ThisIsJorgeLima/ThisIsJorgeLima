@@ -44,8 +44,11 @@ Here are some ideas to get you started:
 <!-- Social starts -->
 * [Linkedin](https://linkedin.com/in/jorgelima)
 </td><td valign="top">
+<!-- Social ends -->
 
 More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
+</td></tr></table>
+
 
 
 
