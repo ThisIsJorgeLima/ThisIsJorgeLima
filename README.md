@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Read [my blog](https://medium.com/@ThisIsJorgeLima) | [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima).
+Read [my blog](https://medium.com/@ThisIsJorgeLima) | [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima). | 📲 Subscribe to my [Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
 
 <table><tr><td valign="top">
 
