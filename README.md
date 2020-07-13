@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Read [my blog](https://medium.com/@ThisIsJorgeLima or [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima).
+Read [my blog](https://medium.com/@ThisIsJorgeLima) or [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima).
 
 
 <!--
