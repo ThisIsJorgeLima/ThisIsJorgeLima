@@ -30,8 +30,7 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 * [Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
 * [Linkedin](https://linkedin.com/in/jorgelima)
 * [Facebook](https://www.facebook.com/ThisIsJorgeLima/)
-<i class="fa fa-twitter" aria-hidden="true"></i>
-[Twitter](https://twitter.com/ThisIsJorgeLima)
+* [Twitter](https://twitter.com/ThisIsJorgeLima)
 <!-- Social ends -->
 * More on [Social](https://linktr.ee/thisisjorgelima)
 </td><td valign="top">
