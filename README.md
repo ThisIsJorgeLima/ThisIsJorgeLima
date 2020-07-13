@@ -33,4 +33,3 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 * [Twitter](https://twitter.com/ThisIsJorgeLima)
 <!-- Social ends -->
 * More on [Social](https://linktr.ee/thisisjorgelima)
-</td><td valign="top">
