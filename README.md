@@ -1,5 +1,3 @@
-<script src="https://use.fontawesome.com/f2f1ac6377.js"></script>
-
 ### Hi there 👋
 
 Read [my blog](https://medium.com/@ThisIsJorgeLima) | [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima). | 📲 Subscribe to my [Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
