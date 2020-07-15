@@ -31,4 +31,4 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 * [Facebook](https://www.facebook.com/ThisIsJorgeLima/)
 * [Twitter](https://twitter.com/ThisIsJorgeLima)
 <!-- Social ends -->
-* More on [Social](https://linktr.ee/thisisjorgelima)
+* More [Social](https://linktr.ee/thisisjorgelima)
