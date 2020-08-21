@@ -32,3 +32,10 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 * [Twitter](https://twitter.com/ThisIsJorgeLima)
 <!-- Social ends -->
 * More [Social](https://linktr.ee/thisisjorgelima)
+
+### My GitHub Stats
+
+![Jorges's github stats](https://github-readme-stats.vercel.app/api?username=ThisIsJorgeLima&show_icons=true)
+
+⭐️ From [Jorge A. Lima](https://github.com/ThisIsJorgeLima)
+
