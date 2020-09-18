@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Read [my blog](https://medium.com/@ThisIsJorgeLima) | [follow @ThisIsJorgeLima on Twitter](https://twitter.com/ThisIsJorgeLima). | 📲 Subscribe to my [Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
-[![Linkedin Badge](https://img.shields.io/badge/-Jorge_A_Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jorgelima)](https://www.linkedin.com/in/JorgeLima) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jorge_Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jorgelima)](https://www.linkedin.com/in/JorgeLima) 
 
 <table><tr><td valign="top">
 
