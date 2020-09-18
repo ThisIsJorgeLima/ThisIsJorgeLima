@@ -27,8 +27,8 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 
 ### Social
 <!-- Social starts -->
-*[![Podcast Badge](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
-[![Linkedin Badge](https://img.shields.io/badge/-Jorge_Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jorgelima)](https://www.linkedin.com/in/JorgeLima) 
+*[Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
+*[![Linkedin Badge](https://img.shields.io/badge/-Jorge_Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jorgelima)](https://www.linkedin.com/in/JorgeLima) 
 * [Facebook](https://www.facebook.com/ThisIsJorgeLima/)
 * [Twitter](https://twitter.com/ThisIsJorgeLima)
 <!-- Social ends -->
