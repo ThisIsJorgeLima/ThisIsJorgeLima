@@ -39,4 +39,5 @@ More on [ThisIsJorgeLima.com](https://ThisIsJorgeLima.com/)
 ![Jorges's github stats](https://github-readme-stats.vercel.app/api?username=ThisIsJorgeLima&show_icons=true)
 
 
-
+<!-- Github Stats ends -->
+</td><td valign="bottom">
