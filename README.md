@@ -23,8 +23,8 @@ More on [ThisIsJorgeLima.com](https://thisisjorgelima.com/)
 </td><td valign="top">
 
 ### Ventures
-* [Novus Index](https://novusindex.com) — Applied AI research lab. Self-hosted infrastructure: Ubuntu, Docker, Ollama, Qdrant.
-* [Jett Lucian Kingsley](https://jettluciankingsley.com) — Creative studio.
+* [Novus Index](https://novusindex.com) — A private lab. South Florida.
+* [Jett Lucian Kingsley](https://jettluciankingsley.com) — Private intelligence architecture.
 
 ### Social
 * [LinkedIn](https://www.linkedin.com/in/jorgelima)
